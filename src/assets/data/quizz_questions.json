@@ -1,0 +1,54 @@
+{
+    "title": "Você seria Esforçado ou Procrastinador?",
+    "questions": [{
+            "id": 1,
+            "question": "Qual tarefa você escolheria?",
+            "options": [
+                { "id": 1, "name": "Limpar a casa", "alias": "A" },
+                { "id": 2, "name": "Assistir a um filme", "alias": "B" },
+                { "id": 3, "name": "Fazer exercícios", "alias": "A" },
+                { "id": 4, "name": "Ler um livro", "alias": "B" },
+                { "id": 5, "name": "Trabalhar em um projeto", "alias": "A" }
+            ]
+        },
+        {
+            "id": 2,
+            "question": "O que você faria primeiro?",
+            "options": [
+                { "id": 1, "name": "Estudar para uma prova", "alias": "A" },
+                { "id": 2, "name": "Jogar videogame", "alias": "B" },
+                { "id": 3, "name": "Não saberia escolher", "alias": "B" }
+            ]
+        },
+        {
+            "id": 3,
+            "question": "Qual a sua maior preocupação ao enfrentar uma tarefa difícil?",
+            "options": [
+                { "id": 1, "name": "Não terminar a tempo", "alias": "A" },
+                { "id": 2, "name": "Ficar entediado", "alias": "B" },
+                { "id": 3, "name": "Não fazer perfeitamente", "alias": "A" },
+                { "id": 4, "name": "Sentir-se sobrecarregado", "alias": "B" }
+            ]
+        },
+        {
+            "id": 4,
+            "question": "Qual o seu maior foco?",
+            "options": [
+                { "id": 1, "name": "Ter sucesso", "alias": "A" },
+                { "id": 2, "name": "Desfrutar a vida", "alias": "B" }
+            ]
+        },
+        {
+            "id": 5,
+            "question": "Qual seria o seu apelido?",
+            "options": [
+                { "id": 1, "name": "O Incansável", "alias": "A" },
+                { "id": 2, "name": "Amigo do descanso", "alias": "B" }
+            ]
+        }
+    ],
+    "results": {
+        "A": "Você muito provavelmente seria um Esforçado!",
+        "B": "Você muito provavelmente seria um Procrastinador!"
+    }
+}
