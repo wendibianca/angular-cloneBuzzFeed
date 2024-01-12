@@ -6,22 +6,12 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## Code scaffolding
+##
+![image](https://github.com/wendibianca/angular-cloneBuzzFeed/assets/80482087/6ab94606-2762-4a70-98f0-495289bf8d9e)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
+This project is a remarkable achievement that was completed during the course ‘Creating a BuzzFeed Clone with Angular’. The main goal of the course and this project was to replicate the functionality and design of the popular news and entertainment site, BuzzFeed, using the Angular framework.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+During the course, several important Angular concepts and techniques were covered, including components, services, modules, and routing. In addition, best practices for web development were also explored, such as code organization and performance optimization.
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+The end result is a functional BuzzFeed clone that demonstrates Angular’s ability to create dynamic and interactive web applications. This project serves as concrete proof of the skills acquired during the course and is an excellent example of what can be achieved with the practical application of Angular knowledge.
