@@ -7,7 +7,7 @@ During the course, several important Angular concepts and techniques were covere
 The end result is a functional BuzzFeed clone that demonstrates Angular’s ability to create dynamic and interactive web applications. This project serves as concrete proof of the skills acquired during the course and is an excellent example of what can be achieved with the practical application of Angular knowledge.
 
 ##
-![image](https://github.com/wendibianca/angular-cloneBuzzFeed/assets/80482087/0c571f21-83ff-4ee2-91d0-ec17fb5f4a8e)
+![image](https://github.com/wendibianca/angular-cloneBuzzFeed/assets/80482087/4c61d6e7-03d4-4d10-af18-94a3bce2f648)
 
 
 
