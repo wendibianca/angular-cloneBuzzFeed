@@ -107,11 +107,13 @@
   color: #001f3f;
   font-size: 2rem;
   margin-bottom: 1.5rem;
+  text-align: center;
 }
 
 .quizz_results p{
   color: #001f3f;
   font-size: 1.5rem;
+  text-align: center;
 }
 
 
